@@ -1,0 +1,19 @@
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color:rgb(255, 26, 26);
+  margin: 0;
+  padding: 0;
+}
+.white-text{
+  color:white;
+}
+.inner-box{
+  background-color: red;
+}
+#outer-box{
+  background-color: purple;
+}
